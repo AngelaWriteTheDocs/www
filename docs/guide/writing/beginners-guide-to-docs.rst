@@ -151,11 +151,6 @@ If you don't write for many months,
 it is a lot harder to start writing again.
 Keeping your projects documented will keep you writing at a reasonable cadence.
 
-.. _tech:
-
-What technology
----------------
-
 Starting simple is the best way to achieve actual results.
 I will present a well-paved path to walk down,
 and after you have the basic idea, 
