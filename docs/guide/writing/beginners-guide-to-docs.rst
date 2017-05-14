@@ -127,7 +127,7 @@ and documentation changes are a lot less scary than code changes.
 If you don't have documentation,
 you will miss out on a whole class of contributors.
 
-It makes your code better
+You want your code to be improved
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 There is an old truth that writing things down helps you think.
@@ -150,11 +150,6 @@ Writing also becomes easier over time.
 If you don't write for many months,
 it is a lot harder to start writing again.
 Keeping your projects documented will keep you writing at a reasonable cadence.
-
-.. _tech:
-
-What technology
----------------
 
 Starting simple is the best way to achieve actual results.
 I will present a well-paved path to walk down,
